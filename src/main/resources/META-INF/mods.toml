@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+credits="LepkoQQ"
+authors="LepkoQQ"
+[[mods]]
+    modId="recycler"
+    version="${file.jarVersion}"
+    displayName="Recycler"
+    description="Allows you to recycle your damaged tools and armor in the blast furnace."
